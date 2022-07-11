@@ -1,0 +1,9 @@
+{
+  "name": "proxy-memoize",
+  "description": "Proxy memoize js version.",
+  "license": "MIT",
+  "author": "proxy-memoize",
+  "version": "0.0.0",
+  "main": "index.js",
+  "module": "index.js"
+}

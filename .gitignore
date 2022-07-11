@@ -1,0 +1,13 @@
+/node_modules/
+/build/
+/build-app/
+/.settings/
+/server/
+/.project
+/.firebase/
+/.idea/
+/package-lock.json
+/yarn-error.log
+/.history
+/.vscode
+.DS_Store
